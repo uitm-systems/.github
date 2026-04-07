@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"files.exclude": {
+			"**/.launcher/profiles": true,
+			"**/.launcher/shared-vscode-extensions": true,
+			"**/.launcher/.update-tmp": true
+		},
+		"search.exclude": {
+			"**/.launcher/profiles/**": true,
+			"**/.launcher/shared-vscode-extensions/**": true,
+			"**/.launcher/.update-tmp/**": true
+		}
+	}
+}
